@@ -1,0 +1,14 @@
+# Core Dependencies
+streamlit==1.31.0
+pymupdf==1.23.26
+spacy==3.7.2
+vaderSentiment==3.3.2
+transformers==4.36.2
+torch==2.1.2
+
+# Additional Dependencies
+plotly==5.18.0
+pandas==2.1.4
+
+# spaCy English model (install separately)
+# python -m spacy download en_core_web_sm
